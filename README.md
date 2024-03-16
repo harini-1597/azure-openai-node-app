@@ -1,6 +1,3 @@
-Certainly! Here's the text formatted in Markdown:
-
-````markdown
 # Azure OpenAI Node App
 
 This project aims to demonstrate the integration of Microsoft Azure services, OpenAI's Language Model (LLM), and local development using Azure Copilot to build a REST API for a chatbot application. The application provides a smooth customer experience by integrating plugins, allowing users to interact with various functionalities seamlessly.
@@ -51,5 +48,3 @@ Once the application is running locally, you can interact with the chatbot using
 ## Integration with OpenAI Schema
 
 The project integrates with OpenAI's schema for defining plugins. The schema defines the structure of the plugins, including parameters, descriptions, and example inputs/outputs. This allows for seamless integration of backend APIs with OpenAI's Language Model (LLM), enabling natural language understanding and response generation.
-
-````
