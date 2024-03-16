@@ -17,7 +17,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/azure-openai-node-app.git
+   git clone https://github.com/harini-1597/azure-openai-node-app.git
    ```
 
 2. Install dependencies:
